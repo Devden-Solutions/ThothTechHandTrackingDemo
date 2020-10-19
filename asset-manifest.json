@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/css/main.9b1ab70d.chunk.css",
+    "main.js": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/js/main.38b614f3.chunk.js",
+    "main.js.map": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/js/main.38b614f3.chunk.js.map",
+    "runtime-main.js": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/js/runtime-main.a2eeeaef.js",
+    "runtime-main.js.map": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/js/runtime-main.a2eeeaef.js.map",
+    "static/js/2.e3477e34.chunk.js": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/js/2.e3477e34.chunk.js",
+    "static/js/2.e3477e34.chunk.js.map": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/js/2.e3477e34.chunk.js.map",
+    "index.html": "/Devden-Solutions/ThothTechHandTrackingDemo.git/index.html",
+    "precache-manifest.564d1edff3b9943388a9cdc837f38833.js": "/Devden-Solutions/ThothTechHandTrackingDemo.git/precache-manifest.564d1edff3b9943388a9cdc837f38833.js",
+    "service-worker.js": "/Devden-Solutions/ThothTechHandTrackingDemo.git/service-worker.js",
+    "static/css/main.9b1ab70d.chunk.css.map": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/css/main.9b1ab70d.chunk.css.map",
+    "static/js/2.e3477e34.chunk.js.LICENSE.txt": "/Devden-Solutions/ThothTechHandTrackingDemo.git/static/js/2.e3477e34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2eeeaef.js",
+    "static/js/2.e3477e34.chunk.js",
+    "static/css/main.9b1ab70d.chunk.css",
+    "static/js/main.38b614f3.chunk.js"
+  ]
+}
