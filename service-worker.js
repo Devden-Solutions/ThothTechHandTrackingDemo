@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Devden-Solutions/ThothTechHandTrackingDemo.git/precache-manifest.564d1edff3b9943388a9cdc837f38833.js"
+  "/Devden-Solutions/ThothTechHandTrackingDemo/precache-manifest.9e53958be41632dcf0b4b99442f4a851.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Devden-Solutions/ThothTechHandTrackingDemo.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Devden-Solutions/ThothTechHandTrackingDemo/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
